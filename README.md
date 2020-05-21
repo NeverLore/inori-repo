@@ -1,0 +1,2 @@
+# inori-repo
+inori repo
