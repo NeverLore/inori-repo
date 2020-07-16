@@ -1,2 +1,2 @@
-# Discord bot based on NodeJS & discord.js
-null
+# Source Images for Inori Discord bot 
+
